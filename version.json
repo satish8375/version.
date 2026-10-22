@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "1.0.65",
-  "downloadUrl": "https://drive.google.com/file/d/10DWXBUXqdghqqObf3FuB00VqBos75m3v/view?usp=sharing",
+  "versionCode": 68,
+  "versionName": "1.0.68",
+  "downloadUrl": "https://drive.google.com/file/d/1ftrNbuwK7qNGh-cmdIp0sCpNL4zYbGqw/view?usp=drive_link",
   "notes": "🚀 SR QR Barcode - Professional Update v1.0.65\n\n1️⃣ टेक्स्ट रिकग्निशन (OCR) - Google Lens अनुभव:\n• Google Lens Interaction: फोटो पर उंगली घिसटकर (Drag) टेक्स्ट सिलेक्ट करें।\n• इंटरेक्टिव विजुअल्स: सिलेक्टेड टेक्स्ट पर स्मार्ट हाईलाइट बॉक्स।\n• स्मार्ट लैंग्वेज स्विचिंग: हिंदी (Devanagari) और अंग्रेजी (Latin) सपोर्ट।\n• क्विक एक्शन्स: टेक्स्ट को सुनें (TTS) या सीधे Google पर सर्च करें।\n• बैच मोड: एक साथ कई पन्नों को स्कैन करने की क्षमता।\n\n2️⃣ इंटेलिजेंट स्कैनर (Smart Scanner):\n• स्मार्ट ऑटो-ज़ूम: दूर रखे छोटे कोड्स पर ऑटोमैटिक ज़ूम।\n• कॉन्टेक्स्टुअल बटन्स: Email, SMS, Event और WiFi के लिए स्मार्ट शॉर्टकट्स।\n• रीडेबल हिस्ट्री: कोड फॉर्मेट के असली नाम (जैसे QR_CODE) के साथ डेटा सेव।\n\n3️⃣ एडवांस जनरेटर:\n• UPI Payment Template: GPay, PhonePe के लिए प्रोफेशनल पेमेंट QR।\n• WhatsApp QR: सीधे चैट शुरू करने के लिए मैसेज के साथ QR।\n• नया व्यवस्थित UI: कैटेगरी के हिसाब से बेहतर डिज़ाइन।\n\n4️⃣ हिस्ट्री और डेटा मैनेजमेंट:\n• स्मार्ट फिल्टरिंग: Scanned, Generated या Favorites के आधार पर लिस्ट देखें।\n• CSV Export: अपनी हिस्ट्री को Excel फाइल में एक्सपोर्ट और शेयर करें।\n• विजुअल इंडीकेटर्स: हर आइटम के साथ टाइप पहचानने के लिए आइकॉन।\n\n5️⃣ बैकएंड और डेटा पार्सिंग:\n• एडवांस्ड डिटेक्शन: Aadhaar, PAN, Passport, DL, GSTIN और IFSC की पहचान।\n• स्मार्ट करेक्शन: OCR की गलतियों (O vs 0) का ऑटो-सुधार।\n\n🛠 तकनीकी सुधार:\n• मेमोरी सेफ्टी: बड़ी इमेजेज पर भी ऐप क्रैश-फ्री परफॉरमेंस।\n• फास्ट प्रोसेसिंग: कोरूटीन्स के साथ सुपर-फास्ट रिस्पॉन्स।",
   "forceUpdate": false
 }
